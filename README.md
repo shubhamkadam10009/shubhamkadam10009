@@ -1,4 +1,3 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4D1EAQGpUnq85a7Arg/event-background-image-shrink_200_800/0/1606155222940?e=2147483647&v=beta&t=ZPazmL7SLGEPTQQfDlNX9bOAe4Pa7Xs__nrHVAIBnB0)
 <h1 align="center">Hi 👋, I'm Shubham Kadam</h1>
 <h3 align="center">Passionate about Data</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTc2MmI5ZDI2ODBhM2Q1ZThlOWQ5N2RlYjJhOWMyNWFhMDI3NzQ1ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">

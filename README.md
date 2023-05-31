@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Kadam</h1>
 <h3 align="center">Passionate about Data</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTc2MmI5ZDI2ODBhM2Q1ZThlOWQ5N2RlYjJhOWMyNWFhMDI3NzQ1ZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="200" src="https://www.careerguide.com/career/wp-content/uploads/2021/08/570bfa_93eba704821a45119d72f3c091263817_mv2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkadam10009&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkadam10009" /> </p>
 

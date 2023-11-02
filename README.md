@@ -22,7 +22,7 @@
 
 
 
-### ⚙️ Tech Stack
+### ⚙️ Languages & Tools
 
 ![Bootstrap](https://img.shields.io/badge/-Excel-05122A?style=flat-square&logo=Excel&color=bb8b8b) ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=bb8b8b) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=bb8b8b) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=bb8b8b) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=bb8b8b) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=bb8b8b) ![Bootstrap](https://img.shields.io/badge/-PowerBi-05122A?style=flat-square&logo=PowerBi&color=bb8b8b)
 

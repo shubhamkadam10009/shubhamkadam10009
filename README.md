@@ -12,7 +12,7 @@
 - 📫 How to reach me **shubhamkadam10009@gmail.com**
 
 - ⚡ All My Projects Available at :
-- 📄 Know about my Experience : [Resume](https://github.com/shubhamkadam10009/Other/blob/main/Resume/Shubham%20Kadam%20Resume.pdf)
+- 📄 Know about my Experience : [Resume](https://drive.google.com/file/d/18muUNksuXdxrGFZmfg-vG27seXBKKRaW/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

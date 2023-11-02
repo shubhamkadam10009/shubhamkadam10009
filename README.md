@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **shubhamkadam10009@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ All My Projects Available at :
+- 📄 Know about my Experience : [Resume](https://github.com/shubhamkadam10009/Other/blob/main/Resume/Shubham%20Kadam%20Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

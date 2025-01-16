@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkadam10009&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkadam10009" /> </p>
 
-- 🌱 I’m currently learning : **Excel, SQL, PowerBi, Statistics, Python**
+- 🌱 I’m currently working as **Data Analyst** and **learning** : **Machine Learning, Deep Learning, NLP, Statistics, MLops and GenAI (Specializations)**
 
 
 - ⚡ **All My Projects Available At** : [Portfolio](https://github.com/shubhamkadam10009/Data-Analysis-Portfolio)

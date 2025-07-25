@@ -11,7 +11,7 @@
 - ⚡ **All My Projects Available At** : [Portfolio](https://github.com/shubhamkadam10009/Data-Analysis-Portfolio)
 - 📄 Know about my Experience : [Resume](https://drive.google.com/file/d/18muUNksuXdxrGFZmfg-vG27seXBKKRaW/view?usp=drive_link)
 - 📚 Data Analytics Courses :
-  - [Data Analysis Coding Invader](https://codinginvaders.com/certificate?path=https://storage.yandexcloud.net/test11/DA_certificates/August%202023/4-Shubham-Mangesh-Kadam.jpg)
+  - [Data Analysis Coding Invader](https://storage.yandexcloud.net/test11/DA_certificates/August%202023/4-Shubham-Mangesh-Kadam.jpg)
 - 📫 How to reach me :
    - **shubham.kadamci@gmail.com**
    - **shubhamkadam10009@gmail.com** 
